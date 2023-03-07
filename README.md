@@ -1,6 +1,6 @@
 # akalaiko
 Hi, I am **Artem Kalaiko**, iOS Developer.\
-Currently looking for an internship or full-time job.
+Currently looking for full-time job.
 
 ## Skills
 - Swift, SwiftLint
