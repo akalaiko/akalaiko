@@ -1,5 +1,5 @@
 # akalaiko
-Hi, I am **Artem Kalaiko**, iOS Developer.\
+Hi, I am **Artem Kalaiko**, iOS Developer.
 
 ## Skills
 - Swift
