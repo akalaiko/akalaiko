@@ -1,28 +1,23 @@
 # akalaiko
 Hi, I am **Artem Kalaiko**, iOS Developer.\
-Currently looking for full-time job.
 
 ## Skills
-- Swift, SwiftLint
-- UIKit, MVC, MVP
+- Swift
+- UIKit, SwiftUI
+- MVC, MVP, MVVM, VIPER, VIP
 - Storyboard, Xib, Autolayout, UI programmatically
-- SOLID, DRY, KISS
+- SOLID, DRY, KISS, YAGNI
 - Firebase, CoreData, UserDefaults, Realm
-- Foundation, AVKit, MapKit, CoreLocation, UserNotifications (Local only)
-- URLSession, FileManager, JSON, GCD
-- VK API, FacebookLogin
-- SpriteKit (a few simple projects)
-- XCode, SPM, CocoaPods (a bit, switched to SPM)
+- AVKit, MapKit, CoreLocation, UserNotifications
+- URLSession, JSON, Codable, REST
+- Threads, GCD, Operations
+- VK API, Facebook SDK
+- XCode, SPM, CocoaPod
 - GitFlow, GitHub
 - MessageKit, JGProgressHUD
 - Kingfisher, Alamofire, SDWebImage
+- SwiftLint
 - English C1
-
-### Courses/books
-- [Stanford University CS193P](https://cs193p.sites.stanford.edu)
-- [100 days of Swift](https://www.hackingwithswift.com/100)
-- [Pro Swift by Paul Hudson](https://www.hackingwithswift.com/store/pro-swift)
-- [iOS Development 1.5y course on GeekBrains](https://gb.ru/geek_university/developer/programmer/ios)
 
 ## Contacts
 GitHub - [@akalaiko](https://github.com/akalaiko/)\
@@ -36,4 +31,3 @@ Mail - [tim.kalaiko@gmail.com](mailto:\tim.kalaiko@gmail.com)
 - Football
 - Tech
 - Quiz nights
-
